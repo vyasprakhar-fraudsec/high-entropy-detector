@@ -39,11 +39,14 @@ python high_entropy_detector.py <path_to_file>
 
 ## 🧪 Sample Output
 
+
+``` bash
 [INFO] Scanning file: test_data/secrets.txt
 [RESULT] Line 2: Potential high entropy string detected (entropy = 4.95)
 [RESULT] Line 7: Potential high entropy string detected (entropy = 5.23)
 [INFO] Scan complete.
 
+```
 ---
 
 ## 📄 License
